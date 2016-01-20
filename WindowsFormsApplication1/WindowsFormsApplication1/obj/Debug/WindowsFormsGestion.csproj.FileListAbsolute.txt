@@ -47,3 +47,6 @@ C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\WindowsFormsApplicati
 C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Gestion.resources
 C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsGestion.csproj.GenerateResource.Cache
+C:\Users\mansato\Documents\GitHub\ccp1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\mansato\Documents\GitHub\ccp1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\mansato\Documents\GitHub\ccp1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
